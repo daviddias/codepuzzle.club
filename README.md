@@ -34,3 +34,8 @@ https://code.google.com/codejam
 # Where to find challenges
 - https://code.google.com/codejam/contests.html
 - https://www.hackerrank.com/domains
+
+
+# Members of Algorithm Club
+- David Dias @diasdavid https://github.com/diasdavid
+- Nuno Nogueira @nunofmn https://github.com/nunofmn
