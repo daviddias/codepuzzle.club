@@ -7,6 +7,10 @@ Let's solve a new code challenge every week, you get to pick your language :)
 
 Every week we set up a challenge for next week (it can be on hackerrank, any code puzzle book etc), participants develop a solution using the language they prefer during the week and they we meet at Saturday to discuss the solution (no worries if someone didn't manage to reach one, the goal is to learn).
 
+
+
+
+
 # Challenges
 
 ## Week 1: Oct 20-24 
@@ -14,6 +18,13 @@ Every week we set up a challenge for next week (it can be on hackerrank, any cod
 ## Week 2: Oct 27-31
 
 `...`
+
+
+
+
+
+
+
 
 # Coding Contests you might want to participate
 
@@ -31,9 +42,15 @@ Register today at https://www.facebook.com/hackercup/register to see who will st
 Stay tuned as planning for Code Jam 2015 has already begun
 https://code.google.com/codejam
 
+
+
+
 # Where to find challenges
 - https://code.google.com/codejam/contests.html
 - https://www.hackerrank.com/domains
+
+
+
 
 
 # Members of Algorithm Club
