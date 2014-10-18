@@ -13,9 +13,9 @@ Every week we set up a challenge for next week (it can be on hackerrank, any cod
 
 # Challenges
 
-## Week 1: Oct 20-24 
+### Week 1: Oct 20-24 
 
-## Week 2: Oct 27-31
+### Week 2: Oct 27-31
 
 `...`
 
@@ -28,7 +28,7 @@ Every week we set up a challenge for next week (it can be on hackerrank, any cod
 
 # Coding Contests you might want to participate
 
-## 2015 Facebook Hacker Cup
+### 2015 Facebook Hacker Cup
 
 Qualification Period: January 8 - 11, 2015
 Online Round 1: January 17, 2015
@@ -38,7 +38,7 @@ Onsite Finals at Facebook HQ: March 5 - 6, 2015
 
 Register today at https://www.facebook.com/hackercup/register to see who will stand alone.
 
-## Google Code Jam
+### Google Code Jam
 Stay tuned as planning for Code Jam 2015 has already begun
 https://code.google.com/codejam
 
