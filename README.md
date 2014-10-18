@@ -1,4 +1,4 @@
-algorithm-club
+Algorithm Club
 ==============
 
 Let's solve a new code challenge every week, you get to pick your language :)
