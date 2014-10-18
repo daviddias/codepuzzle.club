@@ -1,5 +1,6 @@
 Algorithm Club
 ==============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/diasdavid/algorithm-club?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Let's solve a new code challenge every week, you get to pick your language :)
 
