@@ -15,6 +15,7 @@ Every week we set up a challenge for next week (it can be on hackerrank, any cod
 # Challenges
 
 ### Week 1: Oct 20-24 
+https://www.hackerrank.com/challenges/sherlock-and-pairs
 
 ### Week 2: Oct 27-31
 
