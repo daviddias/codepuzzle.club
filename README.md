@@ -50,7 +50,9 @@ https://code.google.com/codejam
 # Where to find challenges
 - https://code.google.com/codejam/contests.html
 - https://www.hackerrank.com/domains
-
+- https://github.com/tdantas/it-interviews
+- http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
+- http://www.careercup.com/
 
 
 
