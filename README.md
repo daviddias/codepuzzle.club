@@ -59,7 +59,7 @@ https://code.google.com/codejam
 - https://github.com/tdantas/it-interviews
 - http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
 - http://www.careercup.com/
-
+- https://labs.spotify.com/puzzles/
 
 
 
