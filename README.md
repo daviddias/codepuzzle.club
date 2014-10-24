@@ -17,7 +17,7 @@ Every week we set up a challenge for next week (it can be on hackerrank, any cod
 ### Week 1: Oct 20-24 
 https://www.hackerrank.com/challenges/sherlock-and-pairs
 
-Solutions:
+**Solutions:**
 - Rust    - David - https://github.com/diasdavid/arrays-and-sorting-rust
 - Python  - David - https://github.com/diasdavid/arrays-and-sorting-python
 - Node    - David - https://github.com/diasdavid/arrays-and-sorting-node
