@@ -24,6 +24,23 @@ https://www.hackerrank.com/challenges/sherlock-and-pairs
 
 
 ### Week 2: Oct 27-31
+https://www.hackerrank.com/challenges/bigger-is-greater
+
+**Solutions:**
+
+### Week 3: Nov 03-07
+
+`...`
+
+### Week 4: Nov 10-14
+
+`...`
+
+### Week 5: Nov 17-21
+
+`...`
+
+### Week 6: Nov 24-28
 
 `...`
 
