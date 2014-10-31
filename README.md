@@ -24,9 +24,12 @@ https://www.hackerrank.com/challenges/sherlock-and-pairs
 
 
 ### Week 2: Oct 27-31
-https://www.hackerrank.com/challenges/is-fibo
+https://www.hackerrank.com/challenges/service-lane
 
 **Solutions:**
+- Rust    - David - https://github.com/diasdavid/service-lane-rust
+- Python  - David - https://github.com/diasdavid/service-lane-python
+- Node    - David - https://github.com/diasdavid/service-lane-node   
 
 ### Week 3: Nov 03-07
 
