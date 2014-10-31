@@ -24,7 +24,7 @@ https://www.hackerrank.com/challenges/sherlock-and-pairs
 
 
 ### Week 2: Oct 27-31
-https://www.hackerrank.com/challenges/bigger-is-greater
+https://www.hackerrank.com/challenges/is-fibo
 
 **Solutions:**
 
