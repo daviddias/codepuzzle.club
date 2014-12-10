@@ -31,19 +31,23 @@ https://www.hackerrank.com/challenges/service-lane
 - Python  - David - https://github.com/diasdavid/service-lane-python
 - Node    - David - https://github.com/diasdavid/service-lane-node   
 
-### Week 3: Nov 03-07
+### Week 3: Dec 08-12
+https://github.com/tdantas/it-interviews/tree/master/maze
+
+**Solutions:**
+- Node    - David   - https://github.com/diasdavid/maze-node
+- Node    - Thiago  - https://github.com/tdantas/it-interviews/tree/master/maze/solutions/tdantas/nodeJS
+
+
+### Week 4: Dec 15-19
 
 `...`
 
-### Week 4: Nov 10-14
+### Week 5: Dec 22-26
 
 `...`
 
-### Week 5: Nov 17-21
 
-`...`
-
-### Week 6: Nov 24-28
 
 `...`
 
