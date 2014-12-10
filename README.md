@@ -90,3 +90,6 @@ https://code.google.com/codejam
 # Members of Algorithm Club
 - David Dias @diasdavid https://github.com/diasdavid
 - Nuno Nogueira @nunofmn https://github.com/nunofmn
+- Thiago Dantas @tdantas https://github.com/tdantas
+- Igor Soarez @soarez https://github.com/soarez
+- Alexandre Campos @axfcampos https://github.com/axfcampos
