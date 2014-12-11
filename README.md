@@ -49,12 +49,6 @@ https://github.com/tdantas/it-interviews/tree/master/maze
 
 
 
-`...`
-
-
-
-
-
 
 
 
@@ -84,7 +78,7 @@ https://code.google.com/codejam
 - http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X
 - http://www.careercup.com/
 - https://labs.spotify.com/puzzles/
-
+- https://github.com/tdantas/it-interviews
 
 
 # Members of Algorithm Club
