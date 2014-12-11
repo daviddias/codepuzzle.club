@@ -9,10 +9,32 @@ Let's solve a new code challenge every week, you get to pick your language :)
 Every week we set up a challenge for next week (it can be on hackerrank, any code puzzle book etc), participants develop a solution using the language they prefer during the week and they we meet at Saturday to discuss the solution (no worries if someone didn't manage to reach one, the goal is to learn).
 
 
-
-
-
 # Challenges
+
+### Week 5: Dec 22-26
+
+`...`
+
+### Week 4: Dec 15-19
+https://www.hackerrank.com/challenges/bus-station
+
+**Solutions:**
+
+
+### Week 3: Dec 08-12
+https://github.com/tdantas/it-interviews/tree/master/maze
+
+**Solutions:**
+- Node    - David   - https://github.com/diasdavid/maze-node
+- Node    - Thiago  - https://github.com/tdantas/it-interviews/tree/master/maze/solutions/tdantas/nodeJS
+
+### Week 2: Oct 27-31
+https://www.hackerrank.com/challenges/service-lane
+
+**Solutions:**
+- Rust    - David - https://github.com/diasdavid/service-lane-rust
+- Python  - David - https://github.com/diasdavid/service-lane-python
+- Node    - David - https://github.com/diasdavid/service-lane-node  
 
 ### Week 1: Oct 20-24 
 https://www.hackerrank.com/challenges/sherlock-and-pairs
@@ -23,29 +45,14 @@ https://www.hackerrank.com/challenges/sherlock-and-pairs
 - Node    - David - https://github.com/diasdavid/sherlock-and-pairs-node
 
 
-### Week 2: Oct 27-31
-https://www.hackerrank.com/challenges/service-lane
-
-**Solutions:**
-- Rust    - David - https://github.com/diasdavid/service-lane-rust
-- Python  - David - https://github.com/diasdavid/service-lane-python
-- Node    - David - https://github.com/diasdavid/service-lane-node   
-
-### Week 3: Dec 08-12
-https://github.com/tdantas/it-interviews/tree/master/maze
-
-**Solutions:**
-- Node    - David   - https://github.com/diasdavid/maze-node
-- Node    - Thiago  - https://github.com/tdantas/it-interviews/tree/master/maze/solutions/tdantas/nodeJS
+ 
 
 
-### Week 4: Dec 15-19
 
-`...`
 
-### Week 5: Dec 22-26
 
-`...`
+
+
 
 
 
