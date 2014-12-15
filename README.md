@@ -27,6 +27,7 @@ https://github.com/tdantas/it-interviews/tree/master/maze
 **Solutions:**
 - Node    - David   - https://github.com/diasdavid/maze-node
 - Node    - Thiago  - https://github.com/tdantas/it-interviews/tree/master/maze/solutions/tdantas/nodeJS
+- Java    - Alex    - https://github.com/axfcampos/maze-java
 
 ### Week 2: Oct 27-31
 https://www.hackerrank.com/challenges/service-lane
