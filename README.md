@@ -1,6 +1,6 @@
-Algorithm Club
+Code Puzzle Club
 ==============
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/diasdavid/algorithm-club?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/diasdavid/codepuzzle.club?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Let's solve a new code challenge every week, you get to pick your language :)
 
@@ -89,7 +89,7 @@ https://code.google.com/codejam
 - https://github.com/tdantas/it-interviews
 
 
-# Members of Algorithm Club
+# Members of Code Puzzle Club
 - David Dias @diasdavid https://github.com/diasdavid
 - Nuno Nogueira @nunofmn https://github.com/nunofmn
 - Thiago Dantas @tdantas https://github.com/tdantas
