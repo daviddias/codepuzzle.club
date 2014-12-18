@@ -19,7 +19,7 @@ Every week we set up a challenge for next week (it can be on hackerrank, any cod
 https://www.hackerrank.com/challenges/bus-station
 
 **Solutions:**
-
+- Go      - Alex    - https://github.com/axfcampos/bus-station
 
 ### Week 3: Dec 08-12
 https://github.com/tdantas/it-interviews/tree/master/maze
