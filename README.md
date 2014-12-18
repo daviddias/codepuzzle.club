@@ -20,6 +20,7 @@ https://www.hackerrank.com/challenges/bus-station
 
 **Solutions:**
 - Go      - Alex    - https://github.com/axfcampos/bus-station
+- Node    - David   - https://github.com/diasdavid/bus-station-node
 
 ### Week 3: Dec 08-12
 https://github.com/tdantas/it-interviews/tree/master/maze
@@ -44,18 +45,6 @@ https://www.hackerrank.com/challenges/sherlock-and-pairs
 - Rust    - David - https://github.com/diasdavid/sherlock-and-pairs-rust
 - Python  - David - https://github.com/diasdavid/sherlock-and-pairs-python
 - Node    - David - https://github.com/diasdavid/sherlock-and-pairs-node
-
-
- 
-
-
-
-
-
-
-
-
-
 
 
 
