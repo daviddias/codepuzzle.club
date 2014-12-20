@@ -22,6 +22,8 @@ https://www.hackerrank.com/challenges/bus-station
 - Go      - Alex    - https://github.com/axfcampos/bus-station
 - Node    - David   - https://github.com/diasdavid/bus-station-node
 - Rust    - David   - https://github.com/diasdavid/bus-station-rust
+- Rust    - Nuno    - https://github.com/nunofmn/bus-station-rust
+
 
 ### Week 3: Dec 08-12
 https://github.com/tdantas/it-interviews/tree/master/maze
