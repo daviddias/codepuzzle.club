@@ -12,8 +12,10 @@ Every week we set up a challenge for next week (it can be on hackerrank, any cod
 # Challenges
 
 ### Week 5: Dec 22-26
+https://www.hackerrank.com/challenges/bytelandian-tours
 
-`...`
+**Solutions:**
+- _Coming soon_ ^__^
 
 ### Week 4: Dec 15-19
 https://www.hackerrank.com/challenges/bus-station
